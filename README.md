@@ -1,7 +1,7 @@
 # Decision Tree Classifier
 
 This is a simple implementation of simple Decision Tree classifier from scratch in Python, designed to classify fruits based on their color and diameter. The implementation covers fundamental concepts such as Gini Impurity, Information Gain, and recursive tree-building.
-
+  
 ## Features
 
 - **Gini Impurity Calculation**: Measures the impurity of a dataset to determine how mixed the classes are.
